@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 7d4790f21df1d4346aa7401836c3f439
+timeCreated: 1463928196
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: big boss (1) (1)_0
+    21300002: big boss (1) (1)_1
+    21300004: big boss (1) (1)_2
+    21300006: big boss (1) (1)_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: big boss (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 652
+        width: 207
+        height: 384
+      alignment: 9
+      pivot: {x: 0.48651063, y: 0.09278663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.2923, y: -28.630066}
+        - {x: 95.2923, y: 73.369934}
+        - {x: 95.2923, y: 346.36993}
+        - {x: -58.707703, y: 346.36993}
+        - {x: -97.7077, y: 269.36993}
+        - {x: -97.7077, y: 121.369934}
+        - {x: -66.7077, y: 110.369934}
+        - {x: -51.707703, y: 148.36993}
+        - {x: -57.707703, y: 127.369934}
+        - {x: -59.707703, y: 62.369934}
+        - {x: -67.7077, y: -24.630066}
+        - {x: -59.707703, y: -28.630066}
+        - {x: -28.707703, y: -28.630066}
+        - {x: -4.7077026, y: -25.630066}
+        - {x: -7.7077026, y: 5.369934}
+        - {x: -0.70770264, y: -27.630066}
+        - {x: 3.2922974, y: -28.630066}
+      - - {x: 86.2923, y: 298.36993}
+        - {x: 85.2923, y: 296.36993}
+        - {x: 85.2923, y: 294.36993}
+        - {x: 88.2923, y: 292.36993}
+        - {x: 91.2923, y: 292.36993}
+        - {x: 92.2923, y: 294.36993}
+        - {x: 92.2923, y: 297.36993}
+        - {x: 90.2923, y: 298.36993}
+    - name: big boss (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 653
+        width: 207
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.100058235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -33.422363}
+        - {x: 50.5, y: -33.422363}
+        - {x: 56.5, y: -23.422363}
+        - {x: 48.5, y: 115.57764}
+        - {x: 52.5, y: 104.57764}
+        - {x: 97.5, y: 112.57764}
+        - {x: 98.5, y: 126.57764}
+        - {x: 98.5, y: 267.57764}
+        - {x: 78.5, y: 302.57764}
+        - {x: 62.5, y: 306.57764}
+        - {x: 56.5, y: 307.57764}
+        - {x: 46.5, y: 295.57764}
+        - {x: 46.5, y: 291.57764}
+        - {x: 48.5, y: 289.57764}
+        - {x: 44.5, y: 292.57764}
+        - {x: 39.5, y: 296.57764}
+        - {x: 27.5, y: 338.57764}
+        - {x: 17.5, y: 345.57764}
+        - {x: -45.5, y: 345.57764}
+        - {x: -95.5, y: 313.57764}
+        - {x: -97.5, y: 270.57764}
+        - {x: -97.5, y: 114.57764}
+        - {x: -90.5, y: 112.57764}
+        - {x: -68.5, y: 96.57764}
+        - {x: -74.5, y: 107.57764}
+        - {x: -70.5, y: -31.422363}
+        - {x: -66.5, y: -33.422363}
+        - {x: -18.5, y: -33.422363}
+        - {x: -12.5, y: -32.422363}
+        - {x: -7.5, y: 63.577637}
+        - {x: -3.5, y: 2.5776367}
+        - {x: -0.5, y: -31.422363}
+    - name: big boss (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 649
+        width: 129
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5216462, y: 0.09084243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.70764, y: 334.6623}
+        - {x: 23.707642, y: 348.6623}
+        - {x: -44.29236, y: 348.6623}
+        - {x: -62.29236, y: 317.6623}
+        - {x: -62.29236, y: 203.6623}
+        - {x: -27.292358, y: 167.6623}
+        - {x: -40.29236, y: -26.337708}
+        - {x: 49.70764, y: -26.337708}
+        - {x: 37.70764, y: 43.662292}
+        - {x: 52.70764, y: 159.6623}
+        - {x: 52.70764, y: 288.6623}
+    - name: big boss (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 653
+        width: 129
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06930785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 352.03925}
+        - {x: -41.5, y: 352.03925}
+        - {x: -55.5, y: 294.03925}
+        - {x: -55.5, y: 150.03925}
+        - {x: -33.5, y: 47.039246}
+        - {x: -41.5, y: -21.960754}
+        - {x: 28.5, y: -21.960754}
+        - {x: 45.5, y: 104.039246}
+        - {x: 64.5, y: 218.03925}
+        - {x: 64.5, y: 311.03925}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

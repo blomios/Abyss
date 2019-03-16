@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8ab3232045c44e4a9e35b21eb2dfe19
+timeCreated: 1460133690
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - balle_ennemi: {instanceID: 0}
+  - perso: {fileID: 130138, guid: 07b5a7c347634fe438a359a4d8816759, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

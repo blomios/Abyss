@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: ab598e1732f14bc42bae1718796a7cf6
+timeCreated: 1459864071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buildings_set_big_0
+    21300002: buildings_set_big_1
+    21300004: buildings_set_big_2
+    21300006: buildings_set_big_3
+    21300008: buildings_set_big_4
+    21300010: buildings_set_big_5
+    21300012: buildings_set_big_6
+    21300014: buildings_set_big_7
+    21300016: buildings_set_big_8
+    21300018: buildings_set_big_9
+    21300020: buildings_set_big_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buildings_set_big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: buildings_set_big_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 42.5}
+        - {x: -45, y: -42.5}
+        - {x: 45, y: -42.5}
+        - {x: 45, y: 42.5}
+    - name: buildings_set_big_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 370
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -131.5}
+        - {x: 120, y: -89.5}
+        - {x: 100, y: -48.5}
+        - {x: 126, y: -69.5}
+        - {x: 185, y: -69.5}
+        - {x: 185, y: -5.5}
+        - {x: 126, y: -5.5}
+        - {x: 124, y: -7.5}
+        - {x: 100, y: -27.5}
+        - {x: 126, y: 2.5}
+        - {x: 185, y: 2.5}
+        - {x: 185, y: 66.5}
+        - {x: 126, y: 66.5}
+        - {x: 124, y: 64.5}
+        - {x: 120, y: 88.5}
+        - {x: 120, y: 131.5}
+        - {x: 74, y: 131.5}
+        - {x: 56, y: 113.5}
+        - {x: -123, y: 113.5}
+        - {x: -141, y: 131.5}
+        - {x: -185, y: 131.5}
+        - {x: -185, y: 86.5}
+        - {x: -167, y: 68.5}
+        - {x: -167, y: -69.5}
+        - {x: -185, y: -87.5}
+        - {x: -185, y: -131.5}
+        - {x: -140, y: -131.5}
+        - {x: -122, y: -113.5}
+        - {x: 55, y: -113.5}
+        - {x: 73, y: -131.5}
+    - name: buildings_set_big_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 114
+        width: 159
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 74.5}
+        - {x: -72.5, y: 71.5}
+        - {x: -79.5, y: 67.5}
+        - {x: -79.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 79.5, y: -71.5}
+        - {x: 79.5, y: 74.5}
+    - name: buildings_set_big_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 301
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: buildings_set_big_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 301
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: buildings_set_big_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 301
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 42}
+        - {x: -42.5, y: -42}
+        - {x: 42.5, y: -42}
+        - {x: 42.5, y: 42}
+    - name: buildings_set_big_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 301
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 42}
+        - {x: -42.5, y: -42}
+        - {x: 42.5, y: -42}
+        - {x: 42.5, y: 42}
+    - name: buildings_set_big_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 301
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: buildings_set_big_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 302
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: buildings_set_big_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 302
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 42}
+        - {x: -42, y: 25}
+        - {x: -42, y: -23}
+        - {x: -30, y: -42}
+        - {x: 30, y: -42}
+        - {x: 42, y: -31}
+        - {x: 42, y: 37}
+        - {x: 41, y: 42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

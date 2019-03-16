@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: d89f879d56007ca4da2b028edbe8f11f
+timeCreated: 1463435011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mur2ndniveau_0
+    21300002: mur2ndniveau_1
+    21300004: mur2ndniveau_2
+    21300006: mur2ndniveau_3
+    21300008: mur2ndniveau_4
+    21300010: mur2ndniveau_5
+    21300012: mur2ndniveau_6
+    21300014: mur2ndniveau_7
+    21300016: mur2ndniveau_8
+    21300018: mur2ndniveau_9
+    21300020: mur2ndniveau_10
+    21300022: mur2ndniveau_11
+    21300024: mur2ndniveau_12
+    21300026: mur2ndniveau_13
+    21300028: mur2ndniveau_14
+    21300030: mur2ndniveau_15
+    21300032: mur2ndniveau_16
+    21300034: mur2ndniveau_17
+    21300036: mur2ndniveau_18
+    21300038: mur2ndniveau_19
+    21300040: mur2ndniveau_20
+    21300042: mur2ndniveau_21
+    21300044: mur2ndniveau_22
+    21300046: mur2ndniveau_23
+    21300048: mur2ndniveau_24
+    21300050: mur2ndniveau_25
+    21300052: mur2ndniveau_26
+    21300054: mur2ndniveau_27
+    21300056: mur2ndniveau_28
+    21300058: mur2ndniveau_29
+    21300060: mur2ndniveau_30
+    21300062: mur2ndniveau_31
+    21300064: mur2ndniveau_32
+    21300066: mur2ndniveau_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mur2ndniveau_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 136
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 119
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 119
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 119
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_5
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 119
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_6
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 51
+        width: 87
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_7
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 123
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_8
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 51
+        width: 87
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_9
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 94
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_10
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 109
+        width: 218
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_11
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 109
+        width: 213
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_12
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 90
+        width: 305
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_13
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 119
+        width: 252
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.813354, y: 19.593332}
+        - {x: -25.813354, y: 6.5933323}
+        - {x: -25.813354, y: -17.406668}
+        - {x: -24.813354, y: -18.406668}
+        - {x: 27.186646, y: -18.406668}
+        - {x: 27.186646, y: 14.593332}
+        - {x: 13.1866455, y: 19.593332}
+    - name: mur2ndniveau_14
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 36
+        width: 179
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2866821, y: 24.94}
+        - {x: -18.286682, y: 7.9400005}
+        - {x: -18.286682, y: -24.06}
+        - {x: 19.713318, y: -24.06}
+        - {x: 19.713318, y: 24.94}
+    - name: mur2ndniveau_15
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 2
+        width: 233
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.960022, y: 31.413334}
+        - {x: -23.960022, y: 3.413334}
+        - {x: 6.039978, y: -30.586666}
+        - {x: 25.039978, y: -30.586666}
+        - {x: 25.039978, y: -1.5866661}
+        - {x: 16.039978, y: 31.413334}
+    - name: mur2ndniveau_16
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 2
+        width: 232
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.986694, y: 31.413334}
+        - {x: -10.986694, y: 30.413334}
+        - {x: -23.986694, y: 3.413334}
+        - {x: -23.986694, y: -30.586666}
+        - {x: 3.0133057, y: -30.586666}
+        - {x: 25.013306, y: -16.586666}
+        - {x: 25.013306, y: 31.413334}
+    - name: mur2ndniveau_17
+      rect:
+        serializedVersion: 2
+        x: 5426
+        y: 99
+        width: 223
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.126709, y: 21.46}
+        - {x: -23.126709, y: -8.540001}
+        - {x: -23.126709, y: -20.54}
+        - {x: 10.873291, y: -20.54}
+        - {x: 23.873291, y: -15.540001}
+        - {x: 23.873291, y: 21.46}
+    - name: mur2ndniveau_18
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 99
+        width: 222
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.166626, y: -5.540001}
+        - {x: -3.166626, y: -20.54}
+        - {x: 23.833374, y: -20.54}
+        - {x: 23.833374, y: -8.540001}
+        - {x: 17.833374, y: 21.46}
+        - {x: -23.166626, y: 21.46}
+    - name: mur2ndniveau_19
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 99
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_20
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 99
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_21
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 99
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_22
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 51
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_23
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 51
+        width: 140
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_24
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 51
+        width: 237
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.106689, y: 22.54}
+        - {x: -23.10669, y: -12.459999}
+        - {x: -23.10669, y: -21.46}
+        - {x: 5.8933105, y: -21.46}
+        - {x: 25.89331, y: -5.459999}
+        - {x: 25.89331, y: 21.54}
+        - {x: 21.89331, y: 22.54}
+    - name: mur2ndniveau_25
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 51
+        width: 237
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.080078, y: -6.459999}
+        - {x: 3.9199219, y: -21.46}
+        - {x: 25.919922, y: -21.46}
+        - {x: 25.919922, y: 9.540001}
+        - {x: 23.919922, y: 22.54}
+        - {x: -18.080078, y: 22.54}
+        - {x: -23.080078, y: 20.54}
+    - name: mur2ndniveau_26
+      rect:
+        serializedVersion: 2
+        x: 8167
+        y: 22
+        width: 150
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_27
+      rect:
+        serializedVersion: 2
+        x: 8481
+        y: 22
+        width: 150
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_28
+      rect:
+        serializedVersion: 2
+        x: 8781
+        y: 119
+        width: 126
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_29
+      rect:
+        serializedVersion: 2
+        x: 9090
+        y: 119
+        width: 126
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_30
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 2
+        width: 135
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_31
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 2
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_32
+      rect:
+        serializedVersion: 2
+        x: 9409
+        y: 22
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mur2ndniveau_33
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 22
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

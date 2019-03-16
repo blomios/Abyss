@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 159765673540efd41a83188f30b912ef
+timeCreated: 1459727980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WALL JM0_0
+    21300002: WALL JM0_1
+    21300004: WALL JM0_2
+    21300006: WALL JM0_3
+    21300008: WALL JM0_4
+    21300010: WALL JM0_5
+    21300012: WALL JM0_6
+    21300014: WALL JM0_7
+    21300016: WALL JM0_8
+    21300018: WALL JM0_9
+    21300020: WALL JM0_10
+    21300022: WALL JM0_11
+    21300024: WALL JM0_12
+    21300026: WALL JM0_13
+    21300028: WALL JM0_14
+    21300030: WALL JM0_15
+    21300032: WALL JM0_16
+    21300034: WALL JM0_17
+    21300036: WALL JM0_18
+    21300038: WALL JM0_19
+    21300040: WALL JM0_20
+    21300042: WALL JM0_21
+    21300044: WALL JM0_22
+    21300046: WALL JM0_23
+    21300048: WALL JM0_24
+    21300050: WALL JM0_25
+    21300052: WALL JM0_26
+    21300054: WALL JM0_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WALL JM0_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 117
+        width: 135
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 117
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 55
+        width: 86
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 55
+        width: 86
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_4
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 109
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 109
+        width: 213
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_6
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 109
+        width: 213
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_7
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 101
+        width: 262
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_8
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 51
+        width: 262
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.119995, y: 28.91}
+        - {x: -32.119995, y: -0.09000015}
+        - {x: -32.119995, y: -27.09}
+        - {x: -31.119995, y: -28.09}
+        - {x: 32.880005, y: -28.09}
+        - {x: 32.880005, y: 2.9099998}
+        - {x: 14.880005, y: 28.91}
+    - name: WALL JM0_9
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 47
+        width: 176
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.723328, y: -28.063334}
+        - {x: 22.276672, y: -28.063334}
+        - {x: 22.276672, y: 9.9366665}
+        - {x: 17.276672, y: 28.936666}
+        - {x: -21.723328, y: 28.936666}
+    - name: WALL JM0_10
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 39
+        width: 175
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5632935, y: 28.99}
+        - {x: -21.563293, y: 4.99}
+        - {x: -21.563293, y: -27.01}
+        - {x: -20.563293, y: -28.01}
+        - {x: 22.436707, y: -28.01}
+        - {x: 22.436707, y: 28.99}
+    - name: WALL JM0_11
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2
+        width: 233
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.473328, y: 36.986668}
+        - {x: -28.473328, y: 8.986668}
+        - {x: -26.473328, y: 6.9866676}
+        - {x: 6.5266724, y: -36.013332}
+        - {x: 28.526672, y: -36.013332}
+        - {x: 28.526672, y: -5.0133324}
+        - {x: 15.526672, y: 36.986668}
+    - name: WALL JM0_12
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2
+        width: 230
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.736633, y: 36.986668}
+        - {x: -26.736633, y: -12.013332}
+        - {x: -26.736633, y: -36.013332}
+        - {x: -0.7366333, y: -36.013332}
+        - {x: 29.263367, y: 5.9866676}
+        - {x: 29.263367, y: 36.986668}
+    - name: WALL JM0_13
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 51
+        width: 143
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.343323, y: 26.41}
+        - {x: -16.343323, y: -12.59}
+        - {x: -10.343323, y: -25.59}
+        - {x: 18.656677, y: -25.59}
+        - {x: 18.656677, y: -10.59}
+        - {x: 16.656677, y: -0.59000015}
+        - {x: 10.656677, y: 26.41}
+    - name: WALL JM0_14
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 51
+        width: 143
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.453247, y: 26.41}
+        - {x: -16.453247, y: -17.59}
+        - {x: -16.453247, y: -25.59}
+        - {x: 14.546753, y: -25.59}
+        - {x: 18.546753, y: -12.59}
+        - {x: 18.546753, y: 26.41}
+    - name: WALL JM0_15
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 64
+        width: 164
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2232666, y: 24.573334}
+        - {x: -5.2232666, y: 23.573334}
+        - {x: -17.223267, y: 1.5733337}
+        - {x: -19.223267, y: -8.426666}
+        - {x: -19.223267, y: -23.426666}
+        - {x: 6.7767334, y: -23.426666}
+        - {x: 20.776733, y: 14.573334}
+        - {x: 20.776733, y: 24.573334}
+    - name: WALL JM0_16
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 64
+        width: 164
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.196655, y: 24.573334}
+        - {x: -19.196655, y: 15.573334}
+        - {x: -0.19665527, y: -23.426666}
+        - {x: 20.803345, y: -23.426666}
+        - {x: 20.803345, y: 0.57333374}
+        - {x: 8.803345, y: 24.573334}
+    - name: WALL JM0_17
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 43
+        width: 201
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9500732, y: 29.463333}
+        - {x: -0.049926758, y: 28.463333}
+        - {x: -22.049927, y: -23.536667}
+        - {x: -22.049927, y: -28.536667}
+        - {x: 8.950073, y: -28.536667}
+        - {x: 25.950073, y: 14.463333}
+        - {x: 25.950073, y: 29.463333}
+    - name: WALL JM0_18
+      rect:
+        serializedVersion: 2
+        x: 5461
+        y: 35
+        width: 201
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.843384, y: 30.016666}
+        - {x: -22.156616, y: 30.016666}
+        - {x: -22.156616, y: 14.016666}
+        - {x: -14.156616, y: -27.983334}
+        - {x: -4.156616, y: -28.983334}
+        - {x: 25.843384, y: -28.983334}
+        - {x: 25.843384, y: -15.983334}
+        - {x: 22.843384, y: -5.9833336}
+    - name: WALL JM0_19
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 113
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_20
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 113
+        width: 143
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_21
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 23
+        width: 147
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.04675293, y: 33.096664}
+        - {x: -0.9532471, y: 32.096664}
+        - {x: -15.953247, y: -17.903334}
+        - {x: -15.953247, y: -31.903334}
+        - {x: 11.046753, y: -31.903334}
+        - {x: 19.046753, y: -0.90333366}
+        - {x: 19.046753, y: 33.096664}
+    - name: WALL JM0_22
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 72
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_23
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 72
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_24
+      rect:
+        serializedVersion: 2
+        x: 7295
+        y: 109
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_25
+      rect:
+        serializedVersion: 2
+        x: 7590
+        y: 109
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_26
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 72
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WALL JM0_27
+      rect:
+        serializedVersion: 2
+        x: 8189
+        y: 72
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

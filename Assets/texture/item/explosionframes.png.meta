@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: b5ae6b8f78bde184a8a904dedffab0bf
+timeCreated: 1464033967
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosionframes_0
+    21300002: explosionframes_1
+    21300004: explosionframes_2
+    21300006: explosionframes_3
+    21300008: explosionframes_4
+    21300010: explosionframes_5
+    21300012: explosionframes_6
+    21300014: explosionframes_7
+    21300016: explosionframes_8
+    21300018: explosionframes_9
+    21300020: explosionframes_10
+    21300022: explosionframes_11
+    21300024: explosionframes_12
+    21300026: explosionframes_13
+    21300028: explosionframes_14
+    21300030: explosionframes_15
+    21300032: explosionframes_16
+    21300034: explosionframes_17
+    21300036: explosionframes_18
+    21300038: explosionframes_19
+    21300040: explosionframes_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosionframes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 54}
+        - {x: -39, y: 54}
+        - {x: -54, y: 45}
+        - {x: -54, y: -31}
+        - {x: -44, y: -56}
+        - {x: 48, y: -56}
+        - {x: 58, y: -28}
+        - {x: 58, y: 32}
+        - {x: 39, y: 52}
+    - name: explosionframes_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 266
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 55.5}
+        - {x: -50.5, y: 55.5}
+        - {x: -55.5, y: 38.5}
+        - {x: -55.5, y: -36.5}
+        - {x: -24.5, y: -52.5}
+        - {x: 37.5, y: -52.5}
+        - {x: 58.5, y: -29.5}
+        - {x: 58.5, y: 30.5}
+        - {x: 53.5, y: 39.5}
+    - name: explosionframes_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 125
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 55}
+        - {x: -57.5, y: 36}
+        - {x: -57.5, y: -42}
+        - {x: -24.5, y: -55}
+        - {x: 37.5, y: -55}
+        - {x: 57.5, y: -28}
+        - {x: 57.5, y: 27}
+        - {x: 29.5, y: 55}
+    - name: explosionframes_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 273
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 53.5}
+        - {x: -59, y: 34.5}
+        - {x: -59, y: -31.5}
+        - {x: -44, y: -53.5}
+        - {x: 31, y: -53.5}
+        - {x: 57, y: -28.5}
+        - {x: 57, y: 37.5}
+        - {x: 28, y: 53.5}
+    - name: explosionframes_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 264
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 59}
+        - {x: -38, y: 59}
+        - {x: -63, y: 24}
+        - {x: -63, y: -43}
+        - {x: -27, y: -57}
+        - {x: 40, y: -57}
+        - {x: 53, y: -49}
+        - {x: 56, y: -32}
+        - {x: 56, y: 37}
+    - name: explosionframes_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 267
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -62, y: 41.5}
+        - {x: -62, y: -27.5}
+        - {x: -53, y: -57.5}
+        - {x: 42, y: -57.5}
+        - {x: 58, y: -38.5}
+        - {x: 58, y: 32.5}
+        - {x: 40, y: 57.5}
+    - name: explosionframes_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 261
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 61}
+        - {x: -52.5, y: 58}
+        - {x: -62.5, y: 42}
+        - {x: -62.5, y: -26}
+        - {x: -43.5, y: -59}
+        - {x: 19.5, y: -59}
+        - {x: 52.5, y: -49}
+        - {x: 59.5, y: -28}
+        - {x: 59.5, y: 28}
+        - {x: 34.5, y: 61}
+    - name: explosionframes_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 264
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -43.5}
+        - {x: -47.5, y: -59.5}
+        - {x: 33.5, y: -59.5}
+        - {x: 59.5, y: -42.5}
+        - {x: 59.5, y: 51.5}
+        - {x: 54.5, y: 59.5}
+        - {x: -50.5, y: 59.5}
+        - {x: -62.5, y: 35.5}
+    - name: explosionframes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 55.5}
+        - {x: -49, y: 55.5}
+        - {x: -61, y: 30.5}
+        - {x: -61, y: -54.5}
+        - {x: -51, y: -67.5}
+        - {x: 60, y: -67.5}
+        - {x: 60, y: 32.5}
+        - {x: 42, y: 53.5}
+    - name: explosionframes_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 137
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 54.5}
+        - {x: -60.5, y: 41.5}
+        - {x: -60.5, y: -31.5}
+        - {x: -28.5, y: -65.5}
+        - {x: 24.5, y: -65.5}
+        - {x: 51.5, y: -58.5}
+        - {x: 60.5, y: -45.5}
+        - {x: 60.5, y: 24.5}
+        - {x: 50.5, y: 54.5}
+    - name: explosionframes_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 138
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 52.5}
+        - {x: -57.5, y: 22.5}
+        - {x: -57.5, y: -51.5}
+        - {x: -32.5, y: -65.5}
+        - {x: 52.5, y: -65.5}
+        - {x: 61.5, y: -48.5}
+        - {x: 61.5, y: 18.5}
+        - {x: 42.5, y: 52.5}
+    - name: explosionframes_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 139
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 52}
+        - {x: -57.5, y: 25}
+        - {x: -57.5, y: -33}
+        - {x: -26.5, y: -64}
+        - {x: 41.5, y: -64}
+        - {x: 58.5, y: -32}
+        - {x: 58.5, y: 38}
+        - {x: 48.5, y: 52}
+    - name: explosionframes_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 51}
+        - {x: -57, y: 31}
+        - {x: -57, y: -40}
+        - {x: -35, y: -59}
+        - {x: 33, y: -59}
+        - {x: 53, y: -55}
+        - {x: 53, y: 38}
+        - {x: 26, y: 51}
+    - name: explosionframes_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 142
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 48.5}
+        - {x: -54, y: 48.5}
+        - {x: -54, y: -58.5}
+        - {x: 17, y: -58.5}
+        - {x: 32, y: -52.5}
+        - {x: 53, y: -33.5}
+        - {x: 53, y: 46.5}
+    - name: explosionframes_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 143
+        width: 131
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 49.5}
+        - {x: -53.5, y: 32.5}
+        - {x: -53.5, y: -33.5}
+        - {x: -22.5, y: -54.5}
+        - {x: 38.5, y: -54.5}
+        - {x: 51.5, y: -32.5}
+        - {x: 51.5, y: 43.5}
+        - {x: 45.5, y: 49.5}
+    - name: explosionframes_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 144
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 49.5}
+        - {x: -53, y: -48.5}
+        - {x: -51, y: -50.5}
+        - {x: 31, y: -50.5}
+        - {x: 49, y: -40.5}
+        - {x: 49, y: 26.5}
+        - {x: 34, y: 49.5}
+    - name: explosionframes_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48}
+        - {x: -49, y: 34}
+        - {x: -49, y: -30}
+        - {x: -26, y: -49}
+        - {x: 46, y: -49}
+        - {x: 49, y: -37}
+        - {x: 49, y: 47}
+        - {x: 46, y: 48}
+    - name: explosionframes_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 41.5}
+        - {x: -42, y: 36.5}
+        - {x: -42, y: -50.5}
+        - {x: -37, y: -51.5}
+        - {x: 29, y: -51.5}
+        - {x: 41, y: -49.5}
+        - {x: 51, y: -30.5}
+        - {x: 51, y: 20.5}
+        - {x: 45, y: 41.5}
+    - name: explosionframes_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 19
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 36}
+        - {x: -45, y: 26}
+        - {x: -45, y: -36}
+        - {x: -39, y: -53}
+        - {x: 18, y: -53}
+        - {x: 42, y: -37}
+        - {x: 42, y: 24}
+        - {x: 25, y: 36}
+    - name: explosionframes_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 21
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -44}
+        - {x: -2, y: -47}
+        - {x: 0, y: -50}
+        - {x: 8, y: -49}
+        - {x: 11, y: -46}
+        - {x: 11, y: -44}
+        - {x: 8, y: -43}
+      - - {x: 12, y: -45}
+        - {x: 14, y: -47}
+        - {x: 17, y: -46}
+        - {x: 17, y: -43}
+        - {x: 15, y: -41}
+        - {x: 12, y: -42}
+      - - {x: -34, y: -28}
+        - {x: -32, y: -34}
+        - {x: -26, y: -40}
+        - {x: -23, y: -38}
+        - {x: -25, y: -31}
+        - {x: -30, y: -24}
+        - {x: -32, y: -24}
+        - {x: -34, y: -25}
+      - - {x: 35, y: -18}
+        - {x: 32, y: -19}
+        - {x: 25, y: -36}
+        - {x: 25, y: -38}
+        - {x: 27, y: -39}
+        - {x: 30, y: -38}
+        - {x: 34, y: -31}
+        - {x: 37, y: -26}
+        - {x: 37, y: -20}
+      - - {x: -41, y: -16}
+        - {x: -41, y: -19}
+        - {x: -37, y: -24}
+        - {x: -35, y: -24}
+        - {x: -33, y: -23}
+        - {x: -33, y: -20}
+        - {x: -38, y: -14}
+        - {x: -40, y: -14}
+      - - {x: 34, y: -11}
+        - {x: 36, y: -15}
+        - {x: 38, y: -15}
+        - {x: 41, y: -13}
+        - {x: 41, y: -3}
+        - {x: 38, y: -2}
+        - {x: 35, y: -3}
+      - - {x: 28, y: 17}
+        - {x: 27, y: 15}
+        - {x: 27, y: 12}
+        - {x: 35, y: -2}
+        - {x: 37, y: -2}
+        - {x: 39, y: 0}
+        - {x: 39, y: 6}
+        - {x: 31, y: 17}
+      - - {x: -23, y: 25}
+        - {x: -28, y: 21}
+        - {x: -35, y: 13}
+        - {x: -35, y: 10}
+        - {x: -34, y: 8}
+        - {x: -30, y: 8}
+        - {x: -20, y: 20}
+        - {x: -20, y: 24}
+      - - {x: 6, y: 31}
+        - {x: 6, y: 26}
+        - {x: 18, y: 19}
+        - {x: 24, y: 19}
+        - {x: 25, y: 20}
+        - {x: 25, y: 22}
+        - {x: 22, y: 28}
+        - {x: 11, y: 31}
+      - - {x: -10, y: 29}
+        - {x: -9, y: 26}
+        - {x: -2, y: 26}
+        - {x: 0, y: 28}
+        - {x: -1, y: 31}
+        - {x: -6, y: 32}
+    - name: explosionframes_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 27
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
